@@ -1,4 +1,4 @@
-# 程序员如何优雅的挣零花钱？
+# 程序员如何优雅地挣零花钱？
 
 the repo is not applicable to foreigners
 
